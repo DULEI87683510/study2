@@ -1,0 +1,6 @@
+异步处理http请求demo
+tomcat线程数量有限
+1.使用Runnable异步处理服务
+2.使用DeferredResult异步处理服务
+3.异步处理配置
+
